@@ -8,4 +8,4 @@ I'm into deep learning, specializing in computer vision and NLP. With over 2 yea
 
 📚 If you're interested in connecting or discussing anything related to machine learning, computer vision, or NLP, feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/purushothamann/).
 
-🚀
+🚀 🚀 🚀
