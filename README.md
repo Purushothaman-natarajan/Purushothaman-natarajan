@@ -10,13 +10,6 @@ I specialize in bridging the gap between cutting-edge AI research and production
 * **GenAI & LLM Agents:** Designing RAG systems and autonomous agents that reduce manual effort by up to 90%.
 * **Production ML:** Scaling CV and DocAI stacks across cloud and edge infrastructure.
 
-### 💼 AI Consulting & Delivery
-
-Need to move from an AI prototype to a production-ready system? I help startups and enterprises design scalable AI blueprints and robust MLOps pipelines.
-
-* **View my services:** [AI Systems Consulting](https://purushothaman-natarajan.github.io/ai-consulting.html)
-* **Book a Strategy Session:** [Consultation Form](https://purushothaman-natarajan.github.io/ai-consulting.html#consult-form)
-
 ### 📚 Let's Connect
 
 I'm always open to discussing deep learning architectures, VLM optimization, or new project collaborations.
